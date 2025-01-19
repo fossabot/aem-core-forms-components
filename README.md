@@ -3,6 +3,7 @@
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.adobe.aem/core-forms-components-all/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.adobe.aem/core-forms-components-all)
 ![GitHub](https://img.shields.io/github/license/adobe/aem-core-forms-components.svg)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=dev&repo=285932577&machine=standardLinux32gb&location=WestEurope&devcontainer_path=.devcontainer%2Fdevcontainer.json)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Faem-core-forms-components.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Faem-core-forms-components?ref=badge_shield)
 
 # AEM Forms Core Components
 
@@ -201,3 +202,6 @@ Contributions are welcomed! Read the [Contributing Guide](.github/CONTRIBUTING.m
 This project is licensed under the Apache V2 License. See [LICENSE](LICENSE) for more information.
 
 ---
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Faem-core-forms-components.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Faem-core-forms-components?ref=badge_large)
